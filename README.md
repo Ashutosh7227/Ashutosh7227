@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ashutosh7227
+- 👋 Hi! I’m Ashutosh.
 - 👀 I’m interested in data analysis.
 - 🌱 I’m currently learning and exploring all kind of data.
 
